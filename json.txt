@@ -1,0 +1,11 @@
+{
+    "name":"vivian",
+    "age":31,
+    "Gender":"Female",
+    "Career":"Software engineering",
+    "hobbies":[
+        {"entertainment":"dancing"  },
+        {"leisure":"coding"}
+        
+    ]
+}
